@@ -10,7 +10,7 @@ public class DBConnect {
 		try {
 
 			Class.forName("com.mysql.cj.jdbc.Driver");
-			conn = DriverManager.getConnection("jdbc:mysql://mysql-155831d0-pratikshukla9926-ab7f.h.aivencloud.com:21383/defaultDB", "avnadmin", "AVNS_1ol5H3RNQEMD2ICbBn8");
+			conn = DriverManager.getConnection("jdbc:mysql://mysql-155831d0-pratikshukla9926-ab7f.h.aivencloud.com:21383/defaultdb", "avnadmin", "AVNS_1ol5H3RNQEMD2ICbBn8");
 
 		} catch (Exception e) {
 
