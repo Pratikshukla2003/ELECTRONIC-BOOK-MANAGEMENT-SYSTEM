@@ -43,7 +43,7 @@
 
 			<div class="col-md-3">
 
-				<a href="../login.jsp" class="btn btn-outline-info"> <i
+				<a href="login.jsp" class="btn btn-outline-info"> <i
 					class="fa-regular fa-user"></i> Login
 				</a> <a href="register.jsp" class="btn btn-outline-info ml-3"> <i
 					class="fa-regular fa-address-card"></i> Register
