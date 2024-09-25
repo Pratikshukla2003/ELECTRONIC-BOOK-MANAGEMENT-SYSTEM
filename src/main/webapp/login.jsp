@@ -40,7 +40,7 @@ body {
 						</c:if>
 						
 						<!-- STARTING OF LOGIN FORM -->
-						<form action="../login" method="post">
+						<form action="login" method="post">
 
 							<div class="form-group">
 								<label for="exampleInputEmail1">Username</label> <input
